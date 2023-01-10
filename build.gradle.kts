@@ -59,7 +59,7 @@ dependencies {
   implementation("com.amazonaws:aws-java-sdk-s3:1.12.380")
 
   implementation("io.micrometer:micrometer-core:1.10.2")
-  implementation("io.micrometer:micrometer-registry-cloudwatch2:1.10.2")
+  implementation("io.micrometer:micrometer-registry-cloudwatch2:1.10.3")
 
   implementation("net.javacrumbs.shedlock:shedlock-spring:5.0.1")
   implementation("net.javacrumbs.shedlock:shedlock-provider-jdbc-template:5.0.1")
